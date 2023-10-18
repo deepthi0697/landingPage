@@ -4,9 +4,8 @@ import logo from "../images/logo.svg";
 const Footer = () => {
   return (
     <div
-      class="navbar
-        fixed-bottom navbar-dark bg-dark
-        "
+      class="navbar  navbar-dark bg-dark"
+      // style={{position:'fixed',bottom:0,left:0,right:0}}
     >
       <ul style={{ listStyle: "none", marginBottom: 54 }}>
         <li class="nav-item active">

@@ -11,17 +11,6 @@ const Header = () => {
       <a class="navbar-brand" href="#">
         <img src={logo} style={{ height: 30 }} />
       </a>
-      {/* <button
-          class='navbar-toggler'
-          type='button'
-          data-toggle='collapse'
-          data-target='#navbarText'
-          aria-controls='navbarText'
-          aria-expanded='false'
-          aria-label='Toggle navigation'
-        >
-          <span class='navbar-toggler-icon'></span>
-        </button> */}
       {/* <div class='navbar-collapse' id='navbarText'> */}
       <ul class="nav">
         <li class="nav-item active">
