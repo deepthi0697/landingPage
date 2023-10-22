@@ -76,9 +76,9 @@ const Content = () => {
                 With supporting text below as a natural lead-in to additional
                 content.
               </p>
-              <a href="#" class="btn btn-primary">
+              {/* <a href="#" class="btn btn-primary">
                 Go somewhere
-              </a>
+              </a> */}
             </div>
             <img class="card-img-top" src={ultra2} alt="Card image cap" />
           </div>
